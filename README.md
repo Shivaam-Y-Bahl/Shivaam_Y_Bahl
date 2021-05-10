@@ -1,5 +1,5 @@
 Hi, I'm Shivaam Y Bahl.
-I'm currently working as a Business Analyst in Sr Gravure.
+I'm currently working as a Data Science Intern at The Sparks Foundation.
 Contact Details : +91-9650749620, shivaambahl@gmail.com
 
 <!---
